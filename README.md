@@ -1,62 +1,69 @@
-<h1 align="center">Hey, I'm Kiran 👋</h1>
-
 <p align="center">
-  <a href="https://kirandaily.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Founder+%40+TwoSpoon;Building+Noder+%E2%80%94+Google+Maps+for+learning;Cross-domain+thinker+%2F+pattern+chaser;Full-stack+AI+engineer+in+the+making" alt="Typing SVG" />
-  </a>
+  <img src="https://images.unsplash.com/photo-1633409361618-c73427e4e206?w=900&h=180&fit=crop" width="100%" alt="banner" />
 </p>
 
-<p align="center">
-  <a href="https://kirandaily.com"><img src="https://img.shields.io/badge/kirandaily.com-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<h2 align="center">Hi 👋, I'm Kiran</h2>
+
+<h3 align="center">Founder &amp; Full-Stack AI Engineer</h3>
+
+<p align="center"><i>Building Noder — Google Maps for learning</i></p>
+
+<p align="center">Cross-domain thinker turning ideas from design, hardware, and code into products people actually use.</p>
+
+---
+
+<h3 align="center">🚀 About Me</h3>
+
+<p>
+Kiran, here — founder of <b>TwoSpoon</b>, an AI-native software studio, and builder of <b>Noder</b>, a spatial knowledge navigation platform.
+</p>
+
+<p>
+I trained as an <b>electrical engineer</b> (B.Tech, CET) but think in systems, analogies, and patterns wherever I end up — frontend, design, or hardware.
+</p>
+
+<p>
+Comfortable across <b>Next.js, React Native, Figma, Blender, and DaVinci Resolve</b>, and currently deep in leveling up as a <b>full-stack AI engineer</b>.
+</p>
+
+<p>
+My goal is simple: build things worth navigating, ship them clean, and keep learning in public.
 </p>
 
 ---
 
-### 🚀 What I'm building
+<h3 align="center">🤝 Connect</h3>
 
-- 🧭 **[Noder](https://noderhq.com)** — a spatial knowledge navigation platform. Think "Google Maps for learning": instead of a linear course, you get a map of a subject and can see how everything connects.
-- 🥄 **TwoSpoon** — an AI-native software studio, where I build and ship products with a small, fast-moving team.
-- 🎯 Currently leveling up toward a **full-stack AI engineer** role — stitching together frontend craft, systems thinking, and applied ML.
-
-### 🧠 How I think
-
-I come at problems sideways — cross-domain, analogy-driven, pattern-first. Electrical engineering taught me to think in systems; design taught me to think in feel; code is where the two meet.
-
-### 🛠️ Tools I reach for
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/geezkiran"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://kirandaily.com"><img src="https://skillicons.dev/icons?i=html" /></a>
 </p>
 
-### 📊 GitHub stats
+---
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=geezkiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geezkiran&layout=compact&theme=tokyonight&hide_border=true" />
+<h3 align="center">💻 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,figma,blender,python,nodejs,tailwind,git,vscode,html,css&perline=13" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geezkiran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geezkiran&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+<h3 align="center">📊 GitHub Stats</h3>
 
-### 🔗 Find me
-
-<p align="left">
-  <a href="https://kirandaily.com"><img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://noderhq.com"><img src="https://img.shields.io/badge/Noder-000000?style=for-the-badge&logo=compass&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geezkiran&theme=midnight-purple&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geezkiran&style=for-the-badge&color=6C63FF" alt="Profile views" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=geezkiran&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geezkiran&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+<h3 align="center">📈 Activity Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geezkiran&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
 </p>
