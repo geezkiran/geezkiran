@@ -4,33 +4,17 @@
 
 <h2 align="center">Hi 👋, I'm Kiran</h2>
 
-<h3 align="center">Founder &amp; Full-Stack AI Engineer</h3>
+<h3 align="center">Founder &amp; Full-Stack Vibe-coder</h3>
 
-<p align="center"><i>Building Noder — Google Maps for learning</i></p>
+<p align="center"><i>Building ForQ — Developer tools for writing</i></p>
 
 <p align="center">Cross-domain thinker turning ideas from design, hardware, and code into products people actually use.</p>
 
 ---
 
-<h3 align="center">🚀 About Me</h3>
 
-<p>
-Kiran, here — founder of <b>TwoSpoon</b>, an AI-native software studio, and builder of <b>Noder</b>, a spatial knowledge navigation platform.
-</p>
 
-<p>
-I trained as an <b>electrical engineer</b> (B.Tech, CET) but think in systems, analogies, and patterns wherever I end up — frontend, design, or hardware.
-</p>
 
-<p>
-Comfortable across <b>Next.js, React Native, Figma, Blender, and DaVinci Resolve</b>, and currently deep in leveling up as a <b>full-stack AI engineer</b>.
-</p>
-
-<p>
-My goal is simple: build things worth navigating, ship them clean, and keep learning in public.
-</p>
-
----
 
 <h3 align="center">🤝 Connect</h3>
 
