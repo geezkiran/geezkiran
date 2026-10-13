@@ -1,10 +1,10 @@
 {
   "user": "geezkiran",
-  "total": 1999,
+  "total": 2031,
   "from": "2025-10-12",
-  "to": "2026-10-12",
-  "fetched": "2026-10-12T15:29:20Z",
-  "current_streak": 12,
+  "to": "2026-10-13",
+  "fetched": "2026-10-13T14:14:23Z",
+  "current_streak": 13,
   "longest_streak": 13,
   "best_day": {
     "date": "2026-09-10",
@@ -1839,7 +1839,12 @@
     {
       "date": "2026-10-12",
       "level": 1,
-      "count": 32
+      "count": 37
+    },
+    {
+      "date": "2026-10-13",
+      "level": 1,
+      "count": 27
     }
   ]
 }
