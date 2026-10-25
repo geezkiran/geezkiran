@@ -1,51 +1,16 @@
 {
   "user": "geezkiran",
-  "total": 2185,
-  "from": "2025-10-19",
-  "to": "2026-10-24",
-  "fetched": "2026-10-24T11:04:10Z",
-  "current_streak": 24,
-  "longest_streak": 24,
+  "total": 2202,
+  "from": "2025-10-26",
+  "to": "2026-10-25",
+  "fetched": "2026-10-25T11:33:24Z",
+  "current_streak": 25,
+  "longest_streak": 25,
   "best_day": {
     "date": "2026-09-10",
     "count": 152
   },
   "days": [
-    {
-      "date": "2025-10-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-22",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-23",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-25",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-26",
       "level": 0,
@@ -1863,8 +1828,13 @@
     },
     {
       "date": "2026-10-24",
+      "level": 2,
+      "count": 33
+    },
+    {
+      "date": "2026-10-25",
       "level": 1,
-      "count": 18
+      "count": 2
     }
   ]
 }
